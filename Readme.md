@@ -1,2 +1,2 @@
 Backend project 
-where MonoDn\b and mongoose is used
+where MonoDb and mongoose is used
